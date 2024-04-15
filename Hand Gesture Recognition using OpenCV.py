@@ -1,5 +1,4 @@
-"""
-@author: NISHANT
+
 """
 #Step - 1  -Import Libraries and capture camera
 #Step - 2  -Convert frames Into hsv
